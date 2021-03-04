@@ -1,2 +1,3 @@
 ﻿Bonjour !
-Comment ça va ?
+Comment ça va?
+Pas trop mal.
